@@ -2,4 +2,30 @@
 
 This repository contains samples for a Python training for pentesters, the examples are:
 
-* [SSH](examples/ssh/README.md)
+## SSH
+
+### SSH Client
+
+[src](examples/ssh/client.py)
+
+### SSH Tunneling
+
+[src](examples/ssh/tunnel.py)
+
+## Port Scanning
+
+### With Nmap
+
+### Socket
+
+## Web
+
+### Get IP from hostname
+
+### Forms bruteforce
+
+### Directories/Files bruteforce
+
+### Subdomains bruteforce
+
+### SQL Injections with SQLMAP
