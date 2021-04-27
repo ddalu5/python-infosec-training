@@ -26,6 +26,6 @@ This repository contains samples for a Python training for pentesters, the examp
 
 ### Directories/Files bruteforce
 
-### Subdomains bruteforce
+### Subdomains finder
 
 ### SQL Injections with SQLMAP
